@@ -1,0 +1,14 @@
+# Data manipulation and analysis
+pandas>=1.5.0      # Data manipulation and analysis library
+numpy>=1.21.0      # Numerical computing library
+
+# Data visualization
+matplotlib>=3.5.0  # Basic plotting library
+seaborn>=0.12.0    # Statistical data visualization
+
+# Scientific computing and statistics
+scipy>=1.7.0       # Scientific computing library
+statsmodels>=0.13.0 # Statistical models and tests
+
+# Progress bars
+tqdm>=4.65.0       # Progress bar for loops
